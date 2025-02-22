@@ -14,10 +14,9 @@ Crypto-Algorithms/
 │   ├── hashing/
 │   ├── key_exchange/
 │   ├── post_quantum/
-│── examples/
-│── tests/
+│── samples/
+│── validation/
 │── docs/
-│── requirements.txt
 │── setup.py
 │── .gitignore
 │── LICENSE
